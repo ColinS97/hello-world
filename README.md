@@ -1,2 +1,2 @@
 # hello-world
-Git an Python Training
+Git and Python Training

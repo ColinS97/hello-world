@@ -1,2 +1,2 @@
 # hello-world
-Git and Python Training
+First steps in Git
